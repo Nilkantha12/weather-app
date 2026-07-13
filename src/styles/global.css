@@ -1,0 +1,21 @@
+:root{
+  color-scheme: light dark;
+}
+
+html, body {
+  height: 100%;
+}
+
+body{
+  margin:0;
+  background: #070b18;
+  color: #eaf2ff;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+a{
+  color: inherit;
+}
